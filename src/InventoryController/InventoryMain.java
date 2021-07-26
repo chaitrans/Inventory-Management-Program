@@ -6,6 +6,13 @@ import Util.UserInputOutput;
 
 import java.util.Scanner;
 
+/**
+ * Main class to read Inventory name, price of inventory and weight of inventory from user.
+ * And perform CRED operation.
+ * @author Chaitra NS
+ * @since 22 July 2021
+ */
+
 public class InventoryMain {
     static Scanner scanner = new Scanner(System.in);
 
